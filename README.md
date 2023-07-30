@@ -1,4 +1,4 @@
-# 64x8bit-RAM
+# 64x8bit-RAM-Verilog
 64x8 Bit Random Access Memory (RAM) Design and Implementation in Verilog.  
 
 Random-access memory (RAM) is a type of computer memory that enables data to be read and modified in any order. 
